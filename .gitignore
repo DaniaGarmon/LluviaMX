@@ -22,3 +22,5 @@ Thumbs.db
 
 # Logs y otros temporales
 *.log
+*.temps 
+
